@@ -1,0 +1,8 @@
+D:\krolevska\C-Learning\Objects\bin\Debug\Objects.exe.config
+D:\krolevska\C-Learning\Objects\bin\Debug\Objects.exe
+D:\krolevska\C-Learning\Objects\bin\Debug\Objects.pdb
+D:\krolevska\C-Learning\Objects\obj\Debug\Objects.csproj.AssemblyReference.cache
+D:\krolevska\C-Learning\Objects\obj\Debug\Objects.csproj.SuggestedBindingRedirects.cache
+D:\krolevska\C-Learning\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+D:\krolevska\C-Learning\Objects\obj\Debug\Objects.exe
+D:\krolevska\C-Learning\Objects\obj\Debug\Objects.pdb
