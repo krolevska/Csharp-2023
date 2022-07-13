@@ -1,0 +1,14 @@
+D:\MyFirstOOProgram\bin\Debug\MyFirstOOProgram.exe.config
+D:\MyFirstOOProgram\bin\Debug\MyFirstOOProgram.exe
+D:\MyFirstOOProgram\bin\Debug\MyFirstOOProgram.pdb
+D:\MyFirstOOProgram\obj\Debug\000_MyFirstOOProgram.csprojAssemblyReference.cache
+D:\MyFirstOOProgram\obj\Debug\000_MyFirstOOProgram.csproj.CoreCompileInputs.cache
+D:\MyFirstOOProgram\obj\Debug\MyFirstOOProgram.exe
+D:\MyFirstOOProgram\obj\Debug\MyFirstOOProgram.pdb
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\bin\Debug\MyFirstOOProgram.exe.config
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\bin\Debug\MyFirstOOProgram.exe
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\bin\Debug\MyFirstOOProgram.pdb
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\MyFirstOOProgram.exe
+D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\MyFirstOOProgram.pdb
