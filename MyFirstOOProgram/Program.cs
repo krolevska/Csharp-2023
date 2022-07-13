@@ -2,6 +2,7 @@
 
 namespace MyFirstOOProgram
 {
+     
     //In your project, create two classes named MyClassA and MyClassB.
     //In each of the classes, create one string field and one method that displays the value of the field on the console screen.
 

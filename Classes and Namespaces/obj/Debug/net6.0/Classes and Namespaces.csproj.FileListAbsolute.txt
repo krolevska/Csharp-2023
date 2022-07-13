@@ -1,0 +1,15 @@
+D:\C-Learning\Classes and Namespaces\bin\Debug\net6.0\Classes and Namespaces.exe
+D:\C-Learning\Classes and Namespaces\bin\Debug\net6.0\Classes and Namespaces.deps.json
+D:\C-Learning\Classes and Namespaces\bin\Debug\net6.0\Classes and Namespaces.runtimeconfig.json
+D:\C-Learning\Classes and Namespaces\bin\Debug\net6.0\Classes and Namespaces.dll
+D:\C-Learning\Classes and Namespaces\bin\Debug\net6.0\Classes and Namespaces.pdb
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.csproj.AssemblyReference.cache
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.AssemblyInfoInputs.cache
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.AssemblyInfo.cs
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.csproj.CoreCompileInputs.cache
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.dll
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\refint\Classes and Namespaces.dll
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.pdb
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\Classes and Namespaces.genruntimeconfig.cache
+D:\C-Learning\Classes and Namespaces\obj\Debug\net6.0\ref\Classes and Namespaces.dll

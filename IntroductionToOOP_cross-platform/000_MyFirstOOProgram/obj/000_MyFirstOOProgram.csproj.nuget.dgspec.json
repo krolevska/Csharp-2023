@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj": {}
+    "D:\\C-Learning\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj": {
+    "D:\\C-Learning\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj",
+        "projectUniqueName": "D:\\C-Learning\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj",
         "projectName": "000_MyFirstOOProgram",
-        "projectPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj",
-        "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\obj\\",
+        "projectPath": "D:\\C-Learning\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\000_MyFirstOOProgram.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\C-Learning\\IntroductionToOOP_cross-platform\\000_MyFirstOOProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

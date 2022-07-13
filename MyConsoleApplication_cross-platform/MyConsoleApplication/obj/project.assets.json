@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\B\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\MyConsoleApplication\\MyConsoleApplication.csproj",
+      "projectUniqueName": "D:\\C-Learning\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\MyConsoleApplication.csproj",
       "projectName": "MyConsoleApplication",
-      "projectPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\MyConsoleApplication\\MyConsoleApplication.csproj",
-      "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B\\Google Диск\\Work\\ITVDN\\Тексты\\Проверить\\_C# Базовый\\002 Классы и Пакеты\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\MyConsoleApplication\\obj\\",
+      "projectPath": "D:\\C-Learning\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\MyConsoleApplication.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\C-Learning\\MyConsoleApplication_cross-platform\\MyConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
