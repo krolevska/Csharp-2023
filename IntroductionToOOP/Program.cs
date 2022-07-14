@@ -1,33 +1,24 @@
 ﻿using System;
 
-namespace MyFirstOOProgram
+namespace Solution
 {
-    class MyClass
+  public class SolutionClass
+  {
+    public static void Main(string[] arg)
     {
-        public int field;
-
-        public void Method()
+      int number = Convert.ToInt32(Console.ReadLine());
+      
+      string answer;
+      
+      if (number % 2 == 0)
         {
-            Console.WriteLine(field);
+          answer = "Even";
         }
-    }
-
-    class Program
-    {
-        static void Main()
+      
+      else
         {
-            MyClass a = new MyClass();
-            a.field = 1;
-            Console.WriteLine(a.field);
-            a.Method();
-
-            MyClass b = new MyClass();
-            b.field = 2;
-            Console.WriteLine(b.field);
-            b.Method();
-
-            // Delay
-            Console.ReadKey();
+          answer = "Odd";
         }
-    }
+          }
+  }
 }

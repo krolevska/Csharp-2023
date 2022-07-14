@@ -12,3 +12,8 @@ D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToO
 D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csproj.CoreCompileInputs.cache
 D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\MyFirstOOProgram.exe
 D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\IntroductionToOOP\obj\Debug\MyFirstOOProgram.pdb
+D:\C-Learning\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csproj.AssemblyReference.cache
+D:\C-Learning\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csproj.SuggestedBindingRedirects.cache
+D:\C-Learning\IntroductionToOOP\obj\Debug\000_MyFirstOOProgram.csproj.CoreCompileInputs.cache
+D:\C-Learning\IntroductionToOOP\obj\Debug\MyFirstOOProgram.exe
+D:\C-Learning\IntroductionToOOP\obj\Debug\MyFirstOOProgram.pdb
