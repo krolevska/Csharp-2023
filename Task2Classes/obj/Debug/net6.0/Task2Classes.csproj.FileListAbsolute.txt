@@ -1,0 +1,15 @@
+D:\C-Learning\Task2Classes\bin\Debug\net6.0\Task2Classes.exe
+D:\C-Learning\Task2Classes\bin\Debug\net6.0\Task2Classes.deps.json
+D:\C-Learning\Task2Classes\bin\Debug\net6.0\Task2Classes.runtimeconfig.json
+D:\C-Learning\Task2Classes\bin\Debug\net6.0\Task2Classes.dll
+D:\C-Learning\Task2Classes\bin\Debug\net6.0\Task2Classes.pdb
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.csproj.AssemblyReference.cache
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.AssemblyInfoInputs.cache
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.AssemblyInfo.cs
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.csproj.CoreCompileInputs.cache
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.dll
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\refint\Task2Classes.dll
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.pdb
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\Task2Classes.genruntimeconfig.cache
+D:\C-Learning\Task2Classes\obj\Debug\net6.0\ref\Task2Classes.dll
