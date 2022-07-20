@@ -1,0 +1,15 @@
+D:\C-Learning\InheritanceAndPolymorphismTask2\bin\Debug\net6.0\InheritanceAndPolymorphismTask2.exe
+D:\C-Learning\InheritanceAndPolymorphismTask2\bin\Debug\net6.0\InheritanceAndPolymorphismTask2.deps.json
+D:\C-Learning\InheritanceAndPolymorphismTask2\bin\Debug\net6.0\InheritanceAndPolymorphismTask2.runtimeconfig.json
+D:\C-Learning\InheritanceAndPolymorphismTask2\bin\Debug\net6.0\InheritanceAndPolymorphismTask2.dll
+D:\C-Learning\InheritanceAndPolymorphismTask2\bin\Debug\net6.0\InheritanceAndPolymorphismTask2.pdb
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.csproj.AssemblyReference.cache
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.AssemblyInfoInputs.cache
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.AssemblyInfo.cs
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.csproj.CoreCompileInputs.cache
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.dll
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\refint\InheritanceAndPolymorphismTask2.dll
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.pdb
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\InheritanceAndPolymorphismTask2.genruntimeconfig.cache
+D:\C-Learning\InheritanceAndPolymorphismTask2\obj\Debug\net6.0\ref\InheritanceAndPolymorphismTask2.dll
