@@ -5,7 +5,11 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceAndPolymorphysmTask1", "InheritanceAndPolymorphysmTask1.csproj", "{8AF18EFF-210A-4BFB-8BCE-AD289B671E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphismTask2", "..\InheritanceAndPolymorphismTask2\InheritanceAndPolymorphismTask2.csproj", "{9E82CE98-BB4C-4228-ABB5-46E0A8213F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceAndPolymorphismTask2", "..\InheritanceAndPolymorphismTask2\InheritanceAndPolymorphismTask2.csproj", "{9E82CE98-BB4C-4228-ABB5-46E0A8213F95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceAndPolymorphismTask3", "..\InheritanceAndPolymorphismTask3\InheritanceAndPolymorphismTask3.csproj", "{5E5D8797-6D84-43EE-A89E-BFF49C02D2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphismTask4", "..\InheritanceAndPolymorphismTask4\InheritanceAndPolymorphismTask4.csproj", "{2E3EE120-ABA4-4834-B4B0-07E164C8EAC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{9E82CE98-BB4C-4228-ABB5-46E0A8213F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E82CE98-BB4C-4228-ABB5-46E0A8213F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E82CE98-BB4C-4228-ABB5-46E0A8213F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5D8797-6D84-43EE-A89E-BFF49C02D2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5D8797-6D84-43EE-A89E-BFF49C02D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5D8797-6D84-43EE-A89E-BFF49C02D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5D8797-6D84-43EE-A89E-BFF49C02D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3EE120-ABA4-4834-B4B0-07E164C8EAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3EE120-ABA4-4834-B4B0-07E164C8EAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3EE120-ABA4-4834-B4B0-07E164C8EAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3EE120-ABA4-4834-B4B0-07E164C8EAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
