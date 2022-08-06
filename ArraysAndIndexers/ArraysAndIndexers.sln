@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndIndexers1", "ArraysAndIndexers1.csproj", "{F161BAD5-86A3-4B17-B8F7-FBD37EABE69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndIndexers2", "..\ArraysAndIndexers2\ArraysAndIndexers2.csproj", "{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F161BAD5-86A3-4B17-B8F7-FBD37EABE69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F161BAD5-86A3-4B17-B8F7-FBD37EABE69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F161BAD5-86A3-4B17-B8F7-FBD37EABE69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F161BAD5-86A3-4B17-B8F7-FBD37EABE69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7C87D2-F603-4D02-8CEC-097477146F74}
+	EndGlobalSection
+EndGlobal
