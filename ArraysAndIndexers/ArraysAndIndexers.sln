@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndIndexers1", "Array
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndIndexers2", "..\ArraysAndIndexers2\ArraysAndIndexers2.csproj", "{DFBB71F7-AEA2-4B4B-91ED-F65118E147EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndIndexers3", "..\ArraysAndIndexers3\ArraysAndIndexers3.csproj", "{E91E8403-A506-43DB-B998-053ECF07FA42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndIndexers3", "..\ArraysAndIndexers3\ArraysAndIndexers3.csproj", "{E91E8403-A506-43DB-B998-053ECF07FA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndIndexers4", "..\ArraysAndIndexers4\ArraysAndIndexers4.csproj", "{97EA081E-BCD3-44DC-870F-4480B614DC67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E91E8403-A506-43DB-B998-053ECF07FA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E91E8403-A506-43DB-B998-053ECF07FA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E91E8403-A506-43DB-B998-053ECF07FA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EA081E-BCD3-44DC-870F-4480B614DC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EA081E-BCD3-44DC-870F-4480B614DC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EA081E-BCD3-44DC-870F-4480B614DC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EA081E-BCD3-44DC-870F-4480B614DC67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
