@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StaticClasses2/1.0.0": {
+        "runtime": {
+          "StaticClasses2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticClasses2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

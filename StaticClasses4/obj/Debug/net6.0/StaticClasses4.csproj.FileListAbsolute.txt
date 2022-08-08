@@ -1,0 +1,15 @@
+D:\C-Learning\StaticClasses4\bin\Debug\net6.0\StaticClasses4.exe
+D:\C-Learning\StaticClasses4\bin\Debug\net6.0\StaticClasses4.deps.json
+D:\C-Learning\StaticClasses4\bin\Debug\net6.0\StaticClasses4.runtimeconfig.json
+D:\C-Learning\StaticClasses4\bin\Debug\net6.0\StaticClasses4.dll
+D:\C-Learning\StaticClasses4\bin\Debug\net6.0\StaticClasses4.pdb
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.csproj.AssemblyReference.cache
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.AssemblyInfoInputs.cache
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.AssemblyInfo.cs
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.csproj.CoreCompileInputs.cache
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.dll
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\refint\StaticClasses4.dll
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.pdb
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\StaticClasses4.genruntimeconfig.cache
+D:\C-Learning\StaticClasses4\obj\Debug\net6.0\ref\StaticClasses4.dll
