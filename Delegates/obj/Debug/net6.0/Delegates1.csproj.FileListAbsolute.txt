@@ -1,0 +1,15 @@
+D:\C-Learning\Delegates\bin\Debug\net6.0\Delegates1.exe
+D:\C-Learning\Delegates\bin\Debug\net6.0\Delegates1.deps.json
+D:\C-Learning\Delegates\bin\Debug\net6.0\Delegates1.runtimeconfig.json
+D:\C-Learning\Delegates\bin\Debug\net6.0\Delegates1.dll
+D:\C-Learning\Delegates\bin\Debug\net6.0\Delegates1.pdb
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.csproj.AssemblyReference.cache
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.AssemblyInfoInputs.cache
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.AssemblyInfo.cs
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.csproj.CoreCompileInputs.cache
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.dll
+D:\C-Learning\Delegates\obj\Debug\net6.0\refint\Delegates1.dll
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.pdb
+D:\C-Learning\Delegates\obj\Debug\net6.0\Delegates1.genruntimeconfig.cache
+D:\C-Learning\Delegates\obj\Debug\net6.0\ref\Delegates1.dll
