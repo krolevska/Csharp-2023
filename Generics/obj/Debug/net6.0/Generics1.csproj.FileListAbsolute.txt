@@ -1,0 +1,15 @@
+D:\C-Learning\Generics\bin\Debug\net6.0\Generics1.exe
+D:\C-Learning\Generics\bin\Debug\net6.0\Generics1.deps.json
+D:\C-Learning\Generics\bin\Debug\net6.0\Generics1.runtimeconfig.json
+D:\C-Learning\Generics\bin\Debug\net6.0\Generics1.dll
+D:\C-Learning\Generics\bin\Debug\net6.0\Generics1.pdb
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.csproj.AssemblyReference.cache
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.AssemblyInfoInputs.cache
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.AssemblyInfo.cs
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.csproj.CoreCompileInputs.cache
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.dll
+D:\C-Learning\Generics\obj\Debug\net6.0\refint\Generics1.dll
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.pdb
+D:\C-Learning\Generics\obj\Debug\net6.0\Generics1.genruntimeconfig.cache
+D:\C-Learning\Generics\obj\Debug\net6.0\ref\Generics1.dll
