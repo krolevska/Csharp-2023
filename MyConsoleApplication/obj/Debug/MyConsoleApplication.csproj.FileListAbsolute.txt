@@ -1,7 +1,0 @@
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe.config
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\bin\Debug\MyConsoleApplication.pdb
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\obj\Debug\MyConsoleApplication.csprojAssemblyReference.cache
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\obj\Debug\MyConsoleApplication.csproj.CoreCompileInputs.cache
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\obj\Debug\MyConsoleApplication.exe
-D:\WORK\C# Book\LESSONS ESSENTIAL\002 Введение в ООП\MyConsoleApplication\obj\Debug\MyConsoleApplication.pdb
